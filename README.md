@@ -1,2 +1,2 @@
 # project
-Authir - Satwik Awasthi
+Author - Satwik Awasthi
